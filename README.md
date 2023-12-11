@@ -5,7 +5,6 @@ As a Frontend Developer at Konigle you will be developing various website design
 Here is a task that could take up to 3-4 hours of your time to complete.
 
 ## The assignment
-
 Your task is to design the navigation component present on https://miro.com/ with the following changes
 
 1. The first navigation group only opens upon button click instead of hover.
@@ -24,4 +23,4 @@ https://github.com/konigle/fe-site-design-task/assets/4920110/aece9577-c7b1-4555
 ## Bonus
 
 1. Propose and develop a different design of this navigation(contents, links remain same). State what type of websites can use this new design.
-2. Use Tailwind CSS for styling the component
+2. Use Tailwind CSS for styling the component.
